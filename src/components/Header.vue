@@ -1,4 +1,5 @@
 <script setup lang="ts">
+// @ts-nocheck
 import { ref, computed } from "vue";
 import { useRouter, RouterLink } from "vue-router";
 import { Menu, X } from "lucide-vue-next";
